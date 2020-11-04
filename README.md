@@ -23,7 +23,7 @@
 * e66075b6-ddad-445e-baf6-161b3289522b Result Fail
 * b6d53250-f07e-4352-a293-6102ddf7f1ca Result Fail
 * c2bc778a-1cb9-46c6-b435-0489649d2a42 Result Fail
-* 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 Result Ok
+* 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 Result Fail
 
 
 В качестве тестовых данных использовались данные:
