@@ -6,7 +6,7 @@
 На тестирование затрачено:1
 
 В результате тестирования выявлены следующие дефекты:
-[Ошибочная валидация ключей KeyValidator](https://github.com/dekotamin/keyvalidator/issues/1)
+* [Ошибочная валидация ключей KeyValidator](https://github.com/dekotamin/keyvalidator/issues/1)
 
 ## Описание процесса тестирования
 
